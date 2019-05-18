@@ -1,5 +1,6 @@
 [![](https://jitpack.io/v/liyuzhao/imageloader.svg)](https://jitpack.io/#liyuzhao/imageloader)
 
+>2.x migrate to androidx
 
 #### Step 1.
 Add it in your root build.gradle at the end of repositories:
@@ -18,7 +19,7 @@ Add the dependency
 
 ```
 	dependencies {
-	        implementation 'com.github.liyuzhao:imageloader:v1.0.1'
+	        implementation 'com.github.liyuzhao:imageloader:v2.0.0'
 	}
 
 ```

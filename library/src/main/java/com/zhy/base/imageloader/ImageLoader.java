@@ -5,7 +5,7 @@ import android.graphics.Bitmap;
 import android.net.Uri;
 import android.os.Handler;
 import android.os.Message;
-import android.support.v4.util.LruCache;
+import androidx.collection.LruCache;
 import android.widget.ImageView;
 
 import com.zhy.base.imageloader.diskcache.disklrucache.DiskLruCacheHelper;
